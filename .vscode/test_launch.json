@@ -1,0 +1,23 @@
+// BEGIN: Test Cases
+[
+  {
+    "description": "Test case 1",
+    "input": {
+      // Provide sample input here
+    },
+    "expectedOutput": {
+      // Provide expected output here
+    }
+  },
+  {
+    "description": "Test case 2",
+    "input": {
+      // Provide sample input here
+    },
+    "expectedOutput": {
+      // Provide expected output here
+    }
+  },
+  // Add more test cases as needed
+]
+// END: Test Cases
